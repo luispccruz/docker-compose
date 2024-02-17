@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    container_name: rabbitmq-container
+    image: rabbitmq:3.9-management
+    ports:
+      - "${RABBITMQ_DEFAULT_PORT}:5672"  # RabbitMQ default port
+      - "${RABBITMQ_CONSOLE_PORT}:15672"  # RabbitMQ management console port
+    volumes:
+      - ${RABBITMQ_HOST_VOLUME}:/var/lib/rabbitmq  # Host path for RabbitMQ data persistence

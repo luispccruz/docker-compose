@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mongodb:
+    container_name: mongodb-container
+    image: mongo
+    ports:
+      - "${MONGODB_PORT}:${MONGODB_PORT}"
+    volumes:
+      - ${MONGODB_HOST_VOLUME}:/data/db
