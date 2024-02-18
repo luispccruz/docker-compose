@@ -12,14 +12,14 @@ This repository is a development lab to facilitate API testing in development en
 1. Clone this repository to your local environment:
 
    ```bash
-   git clone https://github.com/your-username/dev-lab-api.git
+   git clone https://github.com/luispccruz/docker-compose.git
 
-2. Navigate to the project directory:
+2. Select the application you want to run:
 
     ```bash
-    cd dev-lab-api
+    cd mongodb
 
-3. Choose the Docker Compose file that corresponds to the testing scenario you want to run.
+3. Run the docker compose command.
 
     ```bash
     docker-compose up
