@@ -1,0 +1,317 @@
+[
+	{
+		"id" : 1,
+		"name" : "Zico",
+		"year" : "1971–1983, 1985–1989",
+		"position" : "Meia-atacante\/Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 2,
+		"name" : "Romário",
+		"year" : "1995–1999",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 3,
+		"name" : "Bebeto",
+		"year" : "1983–1989",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 4,
+		"name" : "Júnior",
+		"year" : "1974–1991",
+		"position" : "Lateral Esquerdo",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 5,
+		"name" : "Zinho",
+		"year" : "1991–1996",
+		"position" : "Meio-campista",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 6,
+		"name" : "Adriano",
+		"year" : "2009–2010, 2012–2013",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 7,
+		"name" : "Ronaldinho Gaúcho",
+		"year" : "2011–2012",
+		"position" : "Meia-atacante\/Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 8,
+		"name" : "Paolo Guerrero",
+		"year" : "2015–2018",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 9,
+		"name" : "Diego Ribas",
+		"year" : "2016–presente",
+		"position" : "Meio-campista",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 10,
+		"name" : "Gabigol",
+		"year" : "2019–presente",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 11,
+		"name" : "Bruno Henrique",
+		"year" : "2019–presente",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 12,
+		"name" : "Filipe Luís",
+		"year" : "2019–presente",
+		"position" : "Lateral Esquerdo",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 13,
+		"name" : "Jorge Jesus",
+		"year" : "2019–2020",
+		"position" : "Treinador",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 14,
+		"name" : "Arrascaeta",
+		"year" : "2019–presente",
+		"position" : "Meio-campista",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 15,
+		"name" : "Everton Ribeiro",
+		"year" : "2015–presente",
+		"position" : "Meio-campista",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 16,
+		"name" : "Rafinha",
+		"year" : "2019–2020",
+		"position" : "Lateral Direito",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 17,
+		"name" : "Vinicius Junior",
+		"year" : "2017–2018",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 18,
+		"name" : "Renato Gaúcho",
+		"year" : "1974–1987",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 19,
+		"name" : "Jairzinho",
+		"year" : "1974–1975",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 20,
+		"name" : "Leandro",
+		"year" : "1978–1990",
+		"position" : "Lateral Direito",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 21,
+		"name" : "Tita",
+		"year" : "1974–1984",
+		"position" : "Atacante",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 22,
+		"name" : "Julio Cesar",
+		"year" : "2014–2018",
+		"position" : "Goleiro",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 23,
+		"name" : "Petkovic",
+		"year" : "2000–2002, 2009–2011",
+		"position" : "Meio-campista",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 24,
+		"name" : "Raul Plasmann",
+		"year" : "1973–1977",
+		"position" : "Goleiro",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 25,
+		"name" : "Claudio Coutinho",
+		"year" : "1972–1974",
+		"position" : "Treinador",
+		"team" : "Clube de Regatas do Flamengo"
+	},
+	{
+		"id" : 26,
+		"name" : "Ademir da Guia",
+		"year" : "1961–1977, 1979–1981",
+		"position" : "Meia",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 27,
+		"name" : "Marcos",
+		"year" : "1992–2011",
+		"position" : "Goleiro",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 28,
+		"name" : "Evair",
+		"year" : "1991–1994, 1999",
+		"position" : "Atacante",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 29,
+		"name" : "César Sampaio",
+		"year" : "1991–1996, 1998–2000",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 30,
+		"name" : "Alex",
+		"year" : "1997–2000, 2002–2004",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 31,
+		"name" : "Edmundo",
+		"year" : "1993–1995, 1996–1997, 1999–2000, 2006",
+		"position" : "Atacante",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 32,
+		"name" : "Leão",
+		"year" : "1968–1979",
+		"position" : "Goleiro",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 33,
+		"name" : "Edú Manga",
+		"year" : "1965–1975",
+		"position" : "Atacante",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 34,
+		"name" : "Luís Pereira",
+		"year" : "1971–1978",
+		"position" : "Defensor",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 35,
+		"name" : "Rivaldo",
+		"year" : "1992–1994",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 36,
+		"name" : "Oberdan Cattani",
+		"year" : "1941–1954",
+		"position" : "Goleiro",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 37,
+		"name" : "Ademar Pantera",
+		"year" : "1968–1971, 1974–1977",
+		"position" : "Atacante",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 38,
+		"name" : "Arouca",
+		"year" : "2015–2017",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 39,
+		"name" : "Alexandre Guimarães",
+		"year" : "1993–1997",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 40,
+		"name" : "Adílio",
+		"year" : "1974–1976",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 41,
+		"name" : "Felipe Melo",
+		"year" : "2017–presente",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 42,
+		"name" : "Galeano",
+		"year" : "1976–1985",
+		"position" : "Atacante",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 43,
+		"name" : "Jair Rosa Pinto",
+		"year" : "1942–1951",
+		"position" : "Meio-campista",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 44,
+		"name" : "Jorge Mendonça",
+		"year" : "1972–1978",
+		"position" : "Atacante",
+		"team" : "Palmeiras"
+	},
+	{
+		"id" : 45,
+		"name" : "Djalma Santos",
+		"year" : "1959–1968",
+		"position" : "Defensor",
+		"team" : "Palmeiras"
+	}
+]
